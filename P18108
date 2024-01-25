@@ -1,7 +1,7 @@
 package boj;
 import java.util.Scanner;
 public class BuddhistEra {
-
+//1998년생인 내가 태국에서는 2541년생?!
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		int buddhistYear=sc.nextInt();
